@@ -11,3 +11,6 @@ Cursando Análise e Desenvolvimento de Sistemas e constantemente buscando novos 
 [![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/p1m3nt4)
 [![REDHAT](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://github.com/p1m3nt4)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
+
+![Sergio Pimenta GitHub stats](https://github-readme-stats.vercel.app/api?username=p1m3nt4&show_icons=true&theme=dracula)
