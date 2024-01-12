@@ -13,3 +13,5 @@ Cursando Análise e Desenvolvimento de Sistemas, buscando constantemente aprimor
 
 
 ![Sergio Pimenta GitHub stats](https://github-readme-stats.vercel.app/api?username=p1m3nt4&show_icons=true&theme=dracula)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p1m3nt4&hide_progress=true)
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
