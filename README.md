@@ -12,4 +12,4 @@ Cursando Análise e Desenvolvimento de Sistemas e constantemente buscando novos 
 [![REDHAT](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://github.com/p1m3nt4)
 
 
-![Sergio Pimenta GitHub stats](https://github-readme-stats.vercel.app/api?username=p1m3nt4&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p1m3nt4&hide_progress=true)
+![Sergio Pimenta GitHub stats](https://github-readme-stats.vercel.app/api?username=p1m3nt4&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p1m3nt4&hide_progress=true)
