@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Sergio Pimenta 🖐️ 
 Cursando Análise e Desenvolvimento de Sistemas, buscando constantemente aprimorar meus conhecimentos e aprender novas tecnologias. Tenho a convicção de que a programação desempenha um papel fundamental em otimizar as tarefas cotidianas das pessoas.
 
-[![Google Cloud Computing Foundations](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/p1m3nt4)
+[![Google Cloud Computing Foundations](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/?locale=pt_BR)
 
 
 
